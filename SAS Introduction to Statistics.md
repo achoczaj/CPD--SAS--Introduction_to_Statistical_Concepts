@@ -116,7 +116,7 @@ You can add additional options to the HISTOGRAM and PROBPLOT statements. The NOR
 
 You can use the INSET statement to create a box of summary statistics directly on the graphs.
 
-** PROC SGSCATTER, PROC SGPLOT, PROC SGPANEL, and PROC SGRENDER **
+**PROC SGSCATTER, PROC SGPLOT, PROC SGPANEL, and PROC SGRENDER**
 
 In addition to the statistical graphics available to you with PROC UNIVARIATE, you might want to use PROC SGSCATTER, PROC SGPLOT, PROC SGPANEL, and PROC SGRENDER to produce a wide variety of additional plot types.
 
@@ -179,8 +179,7 @@ You can use PROC UNIVARIATE to perform a statistical hypothesis test. You use th
 ---
 ### SAS Syntax
 
-To go to the movie where you learned a statement or option, select a link.
-
+```{sas}
 PROC MEANS DATA=SAS-data-set <options>;       
 CLASS variables;
 VAR variables;
@@ -209,7 +208,7 @@ RUN;
 ODS GRAPHICS ON <options>;
 statistical procedure code
 ODS GRAPHICS OFF;
-
+```
 ---
 ### Sample SAS Programs
 
