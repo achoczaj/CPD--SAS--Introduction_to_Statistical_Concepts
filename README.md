@@ -20,11 +20,13 @@ Basic Statistical Concepts
 - types of variables: quantitative and categorical
 - scales of measurement (nominal, ordinal, interval, and ratio)
 - statistical methods
+
 Descriptive Statistics 
 - describing your data
 - measures of location
 - percentiles
 - measures of variability
+
 Picturing Your Data 
 - picturing your data: histogram
 - normal distribution
@@ -40,6 +42,7 @@ Confidence Intervals for the Mean
 - interval estimators
 - confidence intervals
 - normality and the central limit theorem
+
 Hypothesis Testing 
 - decision-making process
 - steps in hypothesis testing
