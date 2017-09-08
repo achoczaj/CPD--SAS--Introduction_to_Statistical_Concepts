@@ -1,5 +1,5 @@
 # CPD--SAS--Introduction_to_Statistical_Concepts
-Notes and labs from SAS Introduction to Statistical Concepts
+Notes and labs from SAS Introduction to Statistical Concepts -- STAT0
 
 This course covers basic statistical concepts that are critical for understanding and using statistical methods. This course explains what statistics is and why it is important to understand the characteristics of your data.
 The information in this course is a prerequisite for many other statistical courses SAS Education offers. The course is appropriate for Base SAS and SAS Enterprise Guide users. Data, practices, and a Case Study are included.
@@ -12,7 +12,7 @@ The information in this course is a prerequisite for many other statistical cour
 - performing simple tests of hypothesis.
 
 ### Topic Summaries:
-Basic Statistical Concepts 
+Basic Statistical Concepts
 - descriptive and inferential statistics
 - populations and samples
 - parameters and statistics
@@ -21,13 +21,13 @@ Basic Statistical Concepts
 - scales of measurement (nominal, ordinal, interval, and ratio)
 - statistical methods
 
-Descriptive Statistics 
+Descriptive Statistics
 - describing your data
 - measures of location
 - percentiles
 - measures of variability
 
-Picturing Your Data 
+Picturing Your Data
 - picturing your data: histogram
 - normal distribution
 - assessing normality
@@ -36,17 +36,20 @@ Picturing Your Data
 - normal probability plots
 - box plots
 - comparing distributions
-Confidence Intervals for the Mean 
+Confidence Intervals for the Mean
 - point estimators, variability, and standard error
 - distribution of sample means
 - interval estimators
 - confidence intervals
 - normality and the central limit theorem
 
-Hypothesis Testing 
+Hypothesis Testing
 - decision-making process
 - steps in hypothesis testing
 - types of errors and power
 - the p-value, effect size, and sample size
 - statistical hypothesis test
 - the t statistic, t distribution, and two-sided t-test
+
+### Link to course:
+https://support.sas.com/edu/schedules.html?ctry=us&crs=STAT0#s1=1
